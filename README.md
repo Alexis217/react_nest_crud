@@ -9,11 +9,11 @@ A **Task Manager** built as a **monorepo** using **Turbo** for efficient develop
 
 ## 📖 Table of Contents
 
-1. [📂 Project Structure](#project-structure)
-2. [🛠 Technologies Used](#technologies-used)
-3. [⚙️ Setup Instructions](#setup-instructions)
-4. [🔄 Common Commands](#common-commands)
-5. [🌟 Features](#features)
+1. [📂 Project Structure](#-project-structure)
+2. [🛠 Technologies Used](#-technologies-used)
+3. [⚙️ Setup Instructions](#%EF%B8%8F-setup-instructions)
+4. [🔄 Common Commands](#-common-commands)
+5. [🌟 Features](#-features)
 
 ---
 
